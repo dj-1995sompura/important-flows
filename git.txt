@@ -1,0 +1,18 @@
+1. Initializeation >>> git init
+2. config account >>> git config -g user.name [username]/git config user.name [username]
+                      git config -g user.email [email] / git config user.email [email]
+                      git config user.name//git config user.email
+
+3. clone repo initially >>> git clone [url]
+if want push local code directly on repo then >> git remote add origin [url]
+
+4. Basic command: git add . // add changes
+                  git commit -m"message" // commit changes
+                  git push origin [branch] // push all changes
+                  git branch [branch name] // create branch
+                  git status // check status of work tree
+                  git log // check comit history
+                  git checkout [branch name]  // switch branch
+
+
+Note: Firstly ensure you are loggin with correct git account in VS code.
