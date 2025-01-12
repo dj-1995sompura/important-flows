@@ -5,3 +5,5 @@
                     shopify theme pull // take a pull from theme
                     shopify theme dev // start server
                     shopify theme push // push change in theme
+
+4. Uninstall shopify CLI: gem uninstall shopify-cli // open bash in vs code and uninstall cli if facing any issue
