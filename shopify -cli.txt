@@ -1,0 +1,7 @@
+1. ensure shopify theme cli >>> npm install -g @shopify/cli @shopify/theme
+2. check node and npm version and ensure. >>> npm -v. node -v
+3. Routine command: shopify theme dev --store [storename] // authenticate store
+                    shopify auth logout // logout from store
+                    shopify theme pull // take a pull from theme
+                    shopify theme dev // start server
+                    shopify theme push // push change in theme
