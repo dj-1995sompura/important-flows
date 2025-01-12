@@ -13,6 +13,6 @@ if want push local code directly on repo then >> git remote add origin [url]
                   git status // check status of work tree
                   git log // check comit history
                   git checkout [branch name]  // switch branch
-
+                  git branch -m master main // change branch name from master to main
 
 Note: Firstly ensure you are loggin with correct git account in VS code.
