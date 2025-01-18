@@ -1,3 +1,4 @@
+Before install cli need to make sure install git. Can verify using git --version command.
 1. ensure shopify theme cli >>> npm install -g @shopify/cli @shopify/theme
 2. check node and npm version and ensure. >>> npm -v. node -v
 3. Routine command: shopify theme dev --store [storename] // authenticate store
